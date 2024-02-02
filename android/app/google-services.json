@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465780040842",
+    "project_id": "webtec-865d7",
+    "storage_bucket": "webtec-865d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465780040842:android:85410b1bfe1fe6f2f8f973",
+        "android_client_info": {
+          "package_name": "com.example.webtec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCa53n2uaohVXpzk9nnyz_fg5BGqsFON4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
